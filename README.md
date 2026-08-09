@@ -1,6 +1,48 @@
-# 💫 About Me:
-Hi 👋, I'm Sayed Zabiulla<br><br>I'm an aspiring Full-Stack Java Developer passionate about building practical applications and continuously improving my software development skills.<br><br>🔭 Currently working on: Core Java and full-stack development projects<br><br>🌱 Currently learning: Java, Spring Boot, REST APIs, SQL, JavaScript, React, and modern web development<br><br>💻 Technical interests: Backend Development, Full-Stack Development, REST APIs, Database Management, and Software Engineering<br><br>🎯 My Goal: To become a skilled Full-Stack Java Developer capable of designing, developing, testing, and deploying scalable real-world applications.<br><br>🚀 My learning path:<br><br>Core Java → OOP → SQL → HTML/CSS/JavaScript → Spring → Spring Boot → REST APIs → JPA/Hibernate → React → Docker & Deployment<br><br>📂 I use GitHub to document my learning journey and build projects that help me strengthen my programming and development skills.<br><br>💡 I believe in:<br><br>Learn → Build → Debug → Improve → Repeat<br><br>📫 Let's connect and build something great together!
+Hi 👋, I'm Sayed Zabiulla
 
+🚀 Aspiring Full-Stack Java Developer
+
+I'm a passionate developer focused on building practical applicationsand continuously improving my software development skills.
+
+My primary goal is to become a Full-Stack Java Developer, with astrong focus on backend development using Java and Spring Boot andmodern frontend development using JavaScript and React.
+
+👨‍💻 About Me
+
+🔭 Currently working on Core Java and full-stack developmentprojects
+
+🌱 Currently learning Spring Boot, REST APIs, SQL, JavaScript, andReact
+
+💻 Interested in Backend Development, Full-Stack Development, RESTAPIs, and Database Management
+
+🎯 Goal: Become a professional Full-Stack Java Developer
+
+📚 Continuously improving my Java, OOP, problem-solving, andsoftware development skills
+
+📂 I use GitHub to document my learning journey and showcase myprojects
+
+🛠️ My Learning Path
+
+Core Java
+   ↓
+Object-Oriented Programming
+   ↓
+SQL & Databases
+   ↓
+HTML + CSS + JavaScript
+   ↓
+Spring Framework
+   ↓
+Spring Boot
+   ↓
+REST APIs
+   ↓
+JPA / Hibernate
+   ↓
+React
+   ↓
+Docker & Deployment
+
+💡 Learn → Build → Debug → Improve → Repeat
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ZabiSyed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_zabi.syed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sayed Zabiulla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayedzabeulla@gmail.com) 
