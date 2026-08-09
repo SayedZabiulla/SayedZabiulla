@@ -23,23 +23,23 @@ My primary goal is to become a Full-Stack Java Developer, with astrong focus on 
 🛠️ My Learning Path
 
 Core Java
-   ↓
+   ->
 Object-Oriented Programming
-   ↓
+   ->
 SQL & Databases
-   ↓
+   ->
 HTML + CSS + JavaScript
-   ↓
+   ->
 Spring Framework
-   ↓
+   ->
 Spring Boot
-   ↓
+   ->
 REST APIs
-   ↓
+   ->
 JPA / Hibernate
-   ↓
+   ->
 React
-   ↓
+   ->
 Docker & Deployment
 
 💡 Learn → Build → Debug → Improve → Repeat
