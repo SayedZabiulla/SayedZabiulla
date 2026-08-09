@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="" alt="Sayed Zabiulla - Full-Stack Java Developer" width="100%" />
+</p>
+
 Hi 👋, I'm Sayed Zabiulla
 
 🚀 Aspiring Full-Stack Java Developer
