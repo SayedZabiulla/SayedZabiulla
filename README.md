@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="Sayed Zabiulla - Full-Stack Java Developer" width="100%" />
+  <img src="Banner.png" alt="Sayed Zabiulla - Full-Stack Java Developer" width="100%" />
 </p>
 
 Hi 👋, I'm Sayed Zabiulla
