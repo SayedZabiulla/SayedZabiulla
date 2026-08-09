@@ -52,7 +52,6 @@ Docker & Deployment
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SayedZabiulla&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=SayedZabiulla&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SayedZabiulla&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
